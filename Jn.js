@@ -423,9 +423,5 @@ setTimeout(AS, 11000);
 
 function AS() {
     var a = document.getElementById('as');
-    a.innerHTML = "<p><a href='#'>家宁生日快乐</a></p>  <p><a href='#'>Happy Birthday</a></p> <p><a href='#'>这不比仰望星空有趣得多</a></p> ";
-
-
-
-
+    a.innerHTML = "<p><a href='#'>生日快乐</a></p>  <p><a href='#'>Happy Birthday</a></p> <p><a href='#'>万事胜意</a></p> ";
 }
